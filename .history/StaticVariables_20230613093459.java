@@ -1,3 +1,4 @@
+
 public class StaticVariables {
     private static double salary;// Static variable
     public static final String DEPARTMENT = "Development";// A Constant
