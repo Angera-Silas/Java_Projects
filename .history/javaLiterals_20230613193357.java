@@ -1,0 +1,4 @@
+public class javaLiterals {
+    byte a = 68;
+    int decimal
+}
