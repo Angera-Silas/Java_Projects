@@ -1,0 +1,273 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FactorialOfNumber",
+            "request": "launch",
+            "mainClass": "FactorialOfNumber",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Areaofrectangle",
+            "request": "launch",
+            "mainClass": "Areaofrectangle",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperators",
+            "request": "launch",
+            "mainClass": "BitwiseOperators",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "BreakStatement",
+            "request": "launch",
+            "mainClass": "BreakStatement",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "CelciusToFahrenheit",
+            "request": "launch",
+            "mainClass": "CelciusToFahrenheit",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatement",
+            "request": "launch",
+            "mainClass": "ContinueStatement",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoopExample",
+            "request": "launch",
+            "mainClass": "DoWhileLoopExample",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeTest",
+            "request": "launch",
+            "mainClass": "EmployeeTest",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "ExampleMinNumber",
+            "request": "launch",
+            "mainClass": "ExampleMinNumber",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "FahrenheitToCelcius",
+            "request": "launch",
+            "mainClass": "FahrenheitToCelcius",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Forloopexample",
+            "request": "launch",
+            "mainClass": "Forloopexample",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "GradingSystem",
+            "request": "launch",
+            "mainClass": "GradingSystem",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "InstanceOfOperator",
+            "request": "launch",
+            "mainClass": "InstanceOfOperator",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Multiplication",
+            "request": "launch",
+            "mainClass": "Multiplication",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "MyCalculator",
+            "request": "launch",
+            "mainClass": "MyCalculator",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstProgram",
+            "request": "launch",
+            "mainClass": "MyFirstProgram",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "MyInfomation",
+            "request": "launch",
+            "mainClass": "MyInfomation",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumbers",
+            "request": "launch",
+            "mainClass": "NaturalNumbers",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "ReversingNumbers",
+            "request": "launch",
+            "mainClass": "ReversingNumbers",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "SquareRoot",
+            "request": "launch",
+            "mainClass": "SquareRoot",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StaticVariables",
+            "request": "launch",
+            "mainClass": "StaticVariables",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StringLength",
+            "request": "launch",
+            "mainClass": "StringLength",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StringToUppercase",
+            "request": "launch",
+            "mainClass": "StringToUppercase",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StudentInfo",
+            "request": "launch",
+            "mainClass": "StudentInfo",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "SumOfIndividualDigits",
+            "request": "launch",
+            "mainClass": "SumOfIndividualDigits",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "SwapNumbers",
+            "request": "launch",
+            "mainClass": "SwapNumbers",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Swappingnumbers",
+            "request": "launch",
+            "mainClass": "Swappingnumbers",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "javaLiterals",
+            "request": "launch",
+            "mainClass": "javaLiterals",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "simpleCalc",
+            "request": "launch",
+            "mainClass": "simpleCalc",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "Java_projects_9436d33b"
+        }
+    ]
+}
