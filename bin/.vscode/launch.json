@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReturningArrays",
+            "request": "launch",
+            "mainClass": "ReturningArrays",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "ArraysToMethods",
+            "request": "launch",
+            "mainClass": "ArraysToMethods",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StringCopy",
+            "request": "launch",
+            "mainClass": "StringCopy",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StringConcatExample",
+            "request": "launch",
+            "mainClass": "StringConcatExample",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferAppend",
+            "request": "launch",
+            "mainClass": "StringBufferAppend",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferExample",
+            "request": "launch",
+            "mainClass": "StringBufferExample",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StoreInArray",
+            "request": "launch",
+            "mainClass": "StoreInArray",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "StringToArray",
+            "request": "launch",
+            "mainClass": "StringToArray",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "MyNumberArray",
+            "request": "launch",
+            "mainClass": "MyNumberArray",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
             "name": "FactorialOfNumber",
             "request": "launch",
             "mainClass": "FactorialOfNumber",
