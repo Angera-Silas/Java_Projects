@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppendReplacement",
+            "request": "launch",
+            "mainClass": "AppendReplacement",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceFirstAndAll",
+            "request": "launch",
+            "mainClass": "ReplaceFirstAndAll",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "MatcherAndLookat",
+            "request": "launch",
+            "mainClass": "MatcherAndLookat",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "RegexMatches",
+            "request": "launch",
+            "mainClass": "RegexMatches",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "CapturingGroups",
+            "request": "launch",
+            "mainClass": "CapturingGroups",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "TimeConverter",
+            "request": "launch",
+            "mainClass": "TimeConverter",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
             "name": "ReturningArrays",
             "request": "launch",
             "mainClass": "ReturningArrays",
