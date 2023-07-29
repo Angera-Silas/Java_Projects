@@ -13,6 +13,7 @@
 		"java.project.referencedLibraries": [
 			"lib/**/*.jar"
 		],
-		"git.ignoreLimitWarning": true
+		"git.ignoreLimitWarning": true,
+		"java.debug.settings.onBuildFailureProceed": true
 	}
 }

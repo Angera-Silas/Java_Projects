@@ -1,0 +1,7 @@
+import java.util.Scanner;
+
+public class AreaCircle {
+    public void GetRadius(){
+        Scanner
+    }
+}

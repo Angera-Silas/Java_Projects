@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "MyGrading",
+            "request": "launch",
+            "mainClass": "MyGrading",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfRect",
+            "request": "launch",
+            "mainClass": "AreaOfRect",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "My_Calculation",
+            "request": "launch",
+            "mainClass": "My_Calculation",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "AREA",
+            "request": "launch",
+            "mainClass": "AREA",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "AreaRectangle",
+            "request": "launch",
+            "mainClass": "AreaRectangle",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "GradingAverage",
+            "request": "launch",
+            "mainClass": "GradingAverage",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Additions",
+            "request": "launch",
+            "mainClass": "Additions",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Sharif",
+            "request": "launch",
+            "mainClass": "Sharif",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
             "name": "AppendReplacement",
             "request": "launch",
             "mainClass": "AppendReplacement",
