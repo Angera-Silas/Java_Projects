@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyCalculators",
+            "request": "launch",
+            "mainClass": "MyCalculators",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "SurfaceAreaOfCylinder",
+            "request": "launch",
+            "mainClass": "SurfaceAreaOfCylinder",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "NetSalaries",
+            "request": "launch",
+            "mainClass": "NetSalaries",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "NetSalary",
+            "request": "launch",
+            "mainClass": "NetSalary",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
+            "name": "Xmass",
+            "request": "launch",
+            "mainClass": "Xmass",
+            "projectName": "Java_projects_9436d33b"
+        },
+        {
+            "type": "java",
             "name": "Dog",
             "request": "launch",
             "mainClass": "Dog",

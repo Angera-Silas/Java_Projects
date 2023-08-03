@@ -1,0 +1,4 @@
+cl
+public class NetSalary {
+    
+}

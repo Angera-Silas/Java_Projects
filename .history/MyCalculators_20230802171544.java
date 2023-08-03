@@ -1,0 +1,48 @@
+import java.util.Scanner;
+
+public class MyCalculators {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        String operation;
+        int a,b,c;
+        System.out.println("1. add\n2. subtract\n3. multiply\n4. divide");
+        operation = in.nextLine();
+        switch (operation) {
+            case "add":
+                System.out.println("Enter the first value");
+                a = in.nextInt();
+                System.out.println("Enter the second value");
+                b = in.nextInt();
+                c = a + b;
+                System.out.println("Sum is: "+c);
+                break;
+            case "subtraction":
+                System.out.println("Enter the first value");
+                a = in.nextInt();
+                System.out.println("Enter the second value");
+                b = in.nextInt();
+                c = a - b;
+                System.out.println("Difference is: "+c);
+                break;
+            case "multiply":
+                System.out.println("Enter the first value");
+                a = in.nextInt();
+                System.out.println("Enter the second value");
+                b = in.nextInt();
+                c = a * b;
+                System.out.println("Product is: "+c);
+                break;
+            case "divide":
+                System.out.println("Enter the first value");
+                a = in.nextInt();
+                System.out.println("Enter the second value");
+                b = in.nextInt();
+                c = a/b;
+                System.out.println("Quotient is: "+c + "Remainder"+(a%b));
+                break;
+            default:
+            System.out.println(operation+ "Not valid");
+                break;
+        }
+    }
+}
